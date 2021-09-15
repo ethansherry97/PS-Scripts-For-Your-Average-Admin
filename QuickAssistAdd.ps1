@@ -1,0 +1,1 @@
+﻿dism /online /add-capability /capabilityname:app.support.quickassist~~~~0.0.1.0
